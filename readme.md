@@ -39,18 +39,18 @@ This is the backend for a money lending application using Node.js, Express, and 
 
 ![alt signup](screenshots/signup-unsuccessfull.png)
 
-3. User having age more than 20 years and having monthly salary more than 25,000
+2. User having age more than 20 years and having monthly salary more than 25,000
    
 ![alt text](screenshots/signup-successfull.png)
 
-5. User successfully logging in
+3. User successfully logging in
    
 ![alt text](screenshots/login-success.png)
 
-7. Fetching User Data
+4. Fetching User Data
    
 ![alt text](screenshots/fetchuserdata.png)
 
-9. Borrowing Money
+5. Borrowing Money
     
 ![alt text](screenshots/borrow.png)
