@@ -16,7 +16,7 @@ This is the backend for a money lending application using Node.js, Express, and 
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/money-lending-app.git
+   git clone https://github.com/soumyabrata-samanta/froker-backend.git
    cd money-lending-app
 ## Install the dependencies:
  - npm install
