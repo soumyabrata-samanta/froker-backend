@@ -36,7 +36,7 @@ This is the backend for a money lending application using Node.js, Express, and 
 
 ### Screenshots of API Endpoints 
 1. User having monthly salary less than 25,000
-![alt text](signup-unsuccessfull.png)
+![alt signup](signup-unsuccessfull.png)
 
 2. User having age more than 20 years and having monthly salary more than 25,000
 ![alt text](signup-successfull.png)
